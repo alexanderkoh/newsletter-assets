@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 72" width="64" height="72">
+  <!-- Land Scout crest, original line drawing by Design Bot (2026-11-01): small crown over a shield holding a tower. -->
+  <g fill="none" stroke="#a3823a" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+    <!-- crown -->
+    <path d="M22 13 L22 5 L27 9.5 L32 3.5 L37 9.5 L42 5 L42 13 Z"/>
+    <!-- shield -->
+    <path d="M12 17 H52 V38 C52 52 42 61 32 67 C22 61 12 52 12 38 Z"/>
+    <path d="M15.5 20.5 H48.5 V38 C48.5 50 40 57.8 32 63 C24 57.8 15.5 50 15.5 38 Z" stroke-width="0.8"/>
+    <!-- tower -->
+    <path d="M24 53 V33 H26.5 V29 H29.5 V33 H34.5 V29 H37.5 V33 H40 V53"/>
+    <path d="M28.5 53 V46.5 A3.5 3.5 0 0 1 35.5 46.5 V53"/>
+    <path d="M21 53 H43"/>
+    <path d="M32 37.5 V41" stroke-width="1.4"/>
+  </g>
+</svg>
